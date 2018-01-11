@@ -43,7 +43,7 @@
                         I am adding this extra line
                  </p>
 <p>
-This is the second line to be added
+Shady, Hello from Openshift
 </p>
 		<ul>
 			<li>
